@@ -1,4 +1,4 @@
-alert('Hello, Osamu!');
+alert('Hello, Taiyo!');
 alert(1+1);
 alert(Math.sprt(1+1));
 ２の平方根と３の平方根の和を計算しなさい。
