@@ -1,9 +1,9 @@
 alert('Hello, Taiyo!');
 alert(1+1);
 alert(Math.sprt(1+1));
-２の平方根と３の平方根の和を計算しなさい。
-１を０で割るとどうなるか、試してみなさい。
-０を０で割るとどうなるか、試してみなさい。
+alert(Math.sprt(2)+Math.sprt(3));
+alert(1/0);
+alert(0/0);
 alert(2+3);
 alert('2'+'3');
 alert(Number('2')+Number('3'));
